@@ -1,11 +1,5 @@
-alert("Sum of 3 and 5 is 8 ");
-alert("Value after variable daclaration is undefined \n Intial value: 5 \n Value after increment is:6 \n Value after addition is:13 \n Value after decrement is: 12 \n The remainder is: 0 ");
-alert("Total cost to buy 5 tickets to a movie is 3000PKR");
-alert("Table of 4 \n 4x1=4 \n 4x2=8 \n 4x3=12 \n 4x4=16 \n 4x5=20 \n 4x6=24 \n 4x7=28 \n 4x8=32 \n 4x9=36 \n 4x10=40");
-alert("25*C is 77*F \n 70*F is 21.1111111111*C");
-alert("Price of item 1 is 60 \n Quantity of item  1 is 3 \n Price of item 2 is 100 \n Quantity of item 2 is 7 \n Shipping charges 100 \n \n Total cost of your order is 2750");
-alert("Total marks: 980 \n Marks obtained: 804 \n Precentage:82.0408163265306%");
-alert("Total Currency in PKR :1748");  
-alert("Current Year: 2016 \n Brith Year: 2005 \n Your Age is :20");
-alert("Radius of a circle: 20 \n The circumference is:125.679999999999 \n The area is: 1256.8");
-alert("Favourite Snack: chocolate chip \n Current age: 20 \n Estimated Maximum Age: 65 \n Amonut of snacks per day: 3 \n You will need 150 chocolate chip to last you until the ripe old age of 65");
+alert("Error! Please enter a valid password");
+alert("Welcome to JS Land...\n Happy Coading!");
+alert("Welcome to JS Land");
+alert("Happy Coding");
+alert("Hello...I can run JS through my web browser's console");
